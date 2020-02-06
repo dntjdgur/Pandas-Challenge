@@ -15,7 +15,7 @@
 
 ###### [Purchasing Analysis]: # of unique items / Average Purchase Price / Total number of Purchases / Total Revenue
 
-![Purchasingtotal](/images/total_purchase.jpg)
+![Purchasingtotal](/images/total_purchase.JPG)
 
 ###### [Gender Demographics]: Percentage and count of Male Players / Female Players / Other & Non-disclosed members
 
@@ -23,7 +23,7 @@
 
 ###### [Purchasing Analysis - Gender]: Purchase Count / Average Purchase price / Total Purchase value / Average Purcahse total
 
-![Purchasinggender](/images/total_purchase_gender.jpg)
+![Purchasinggender](/images/total_purchase_gender.JPG)
 
 ###### [Age Demographics]: Purchase Count / Average Purchase price / Total Purchase value / Average Purchase Total
 
@@ -31,8 +31,8 @@
 
 ###### [Purchasing Analysis - Age]: Purchase Count / Average Purchase price / Total Purchase value / Average Purcahse total
 
-![Purchasinggender](/images/total_purchase_age.jpg)
+![Purchasinggender](/images/total_purchase_age.JPG)
 
 ###### [Top Spenders]: Identifying top 5 spenders' Serial Number / Purchase Count / Average Purchase price / Total Purchase value
 
-![Topspender](/images/topspender.jpg)
+![Topspender](/images/topspender.JPG)
